@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Crygier</title>
+    <description>Personal Site for John Crygier</description>
+    <link>http://john.crygier.com//</link>
+    <atom:link href="http://john.crygier.com//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Feb 2016 14:24:02 -0600</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 14:24:02 -0600</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Welcome to John Crygier&#39;s Site!</title>
+        <description>&lt;p&gt;Hi, and welcome to John Crygier’s Site / Blog!  I plan on this being a place to post
+about my random thoughts, as well as some side-projects I may have going on.&lt;/p&gt;
+
+&lt;p&gt;Also, please feel free to stop by the &lt;a href=&quot;/about&quot;&gt;“About”&lt;/a&gt; page to view my resume, including
+prior professional experiences.&lt;/p&gt;
+
+&lt;p&gt;I decided to start this home as a place to have my resume live, and to talk about some
+of my personal experiences.  This site is hosted on GitHub pages, using Jekyll.  However,
+I decided to ‘compile’ the pages locally on my machine, as the resume is data-driven,
+utilizing the &lt;a href=&quot;http://jsonresume.org/&quot;&gt;JSON Resume&lt;/a&gt; schema.  There is a lot of extra personal
+stuff in there that I don’t feel like sharing.  Also, the resume portion
+depends on some extra ruby code to generate the date difference (how long I was in a particular
+position).  It’s my understanding that GitHub does not allow custom Jekyll plugins.&lt;/p&gt;
+
+&lt;p&gt;I’m not keen on exposing my personal email just yet, so hopefully I’ll have a method
+to contact me from here in the near future.&lt;/p&gt;
+
+&lt;p&gt;Hope you enjoy!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Feb 2016 00:00:00 -0600</pubDate>
+        <link>http://john.crygier.com//general/2016/02/10/welcome-to-johns-blog.html</link>
+        <guid isPermaLink="true">http://john.crygier.com//general/2016/02/10/welcome-to-johns-blog.html</guid>
+        
+        <category>general</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>general</category>
+        
+      </item>
+    
+  </channel>
+</rss>
